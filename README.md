@@ -19,4 +19,4 @@ I built this by following Andrej Karpathy's "Neural Networks from Scratch" serie
 
 Click the link below to run the project in Google Colab.
 
-**[Run the `demo_use.ipynb` notebook in Colab](https://colab.research.google.com/github/varun29-git/my-micrograd-project/blob/main/demo_use.ipynb)**
+**[Run the `demo_use.ipynb` notebook in Colab]([https://colab.research.google.com/github/varun29-git/my-micrograd-project/blob/main/demo_use.ipynb](https://colab.research.google.com/drive/1QP62FyYy9HbhtWJyx5vka5bhqIQv6RFC?usp=sharing))**
