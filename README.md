@@ -15,8 +15,8 @@ I built this by following Andrej Karpathy's "Neural Networks from Scratch" serie
     * `nn.py`: Has the `Neuron`, `Layer`, and `MLP` classes.
 * `demo_use.ipynb`: A simple demo notebook that imports the `micrograd` library and trains a small MLP on a toy dataset.
 
-## How to Run
+## 🚀 How to Run
 
 Click the link below to run the project in Google Colab.
 
-**[Run the `demo_use.ipynb` notebook in Colab](https://colab.research.google.com/github/varun29-git/my-micrograd-project/blob/main/demo_use.ipynb](https://colab.research.google.com/drive/1QP62FyYy9HbhtWJyx5vka5bhqIQv6RFC?usp=sharing))**
+**[Run the project notebook in Colab](https://colab.research.google.com/drive/1QP62FyYy9HbhtWJyx5vka5bhqIQv6RFC?usp=sharing)**
