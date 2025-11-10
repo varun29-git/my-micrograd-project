@@ -15,7 +15,7 @@ The goal was to apply **first-principles thinking** to understand how neural net
     * `nn.py`: Has the `Neuron`, `Layer`, and `MLP` classes.
 * `demo_use.ipynb`: A simple demo notebook that imports and uses the `micrograd` library to train a small neural network.
 
-## 🚀 How to Run
+## How to Run
 
 The `demo_use.ipynb` notebook in this repo relies on the `micrograd` library folder. The most reliable way to run this is to clone the entire project.
 
