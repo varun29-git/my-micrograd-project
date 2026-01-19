@@ -6,7 +6,7 @@ A simple autograd engine and neural network library built from scratch in Python
 
 This is my implementation of a scalar-valued autograd engine and a Multi-Layer Perceptron (MLP).
 
-The goal was to apply **first-principles thinking** to understand how neural networks really work. By building the core components from scratch, this project breaks down backpropagation and computational graphs into simple, understandable pieces.
+The goal was to apply first-principles thinking to understand how neural networks really work. By building the core components from scratch, this project breaks down backpropagation and computational graphs into simple, understandable pieces.
 
 ## What's inside
 
@@ -14,5 +14,7 @@ The goal was to apply **first-principles thinking** to understand how neural net
     * `engine.py`: Has the `Value` class, the core of the autograd.
     * `nn.py`: Has the `Neuron`, `Layer`, and `MLP` classes.
 * `demo_use.ipynb`: A simple demo notebook that imports and uses the `micrograd` library to train a small neural network.
+
+## This was built following a tutorial from Andrej Karpathy
 
 
